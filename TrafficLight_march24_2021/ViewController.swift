@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TrafficLight_march24_2021
 //
-//  Created by Vladimir Syleimanov on 24.03.2021.
+//  Created by ios dev on 24.03.2021.
 //
 
 import UIKit
